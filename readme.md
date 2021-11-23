@@ -1,6 +1,6 @@
 this template is for a panel called pufferpanel [https://pufferpanel.com/] its a free panel you can use on linux that is super lite it can even run on a vps 
 you can also setup docker stuff if ur into that kinda stuff
-NOTE: for games on steam u well need to install steamcmd [https://developer.valvesoftware.com/wiki/SteamCMD]
+NOTE: for games on steam you well need to install steamcmd [https://developer.valvesoftware.com/wiki/SteamCMD]
 
 if you have not installed pufferpanel you can use one of the install scripts to install everything you need 
 NOTE: we are not responsible for any damages to your machine use at your own risk 
